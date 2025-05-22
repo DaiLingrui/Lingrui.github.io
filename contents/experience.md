@@ -1,21 +1,36 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **1. Student Council Work**  
+**09/2022 – 06/2024**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+I served as Deputy Minister of Publicity in the Student Council during my first year of high school, responsible for planning and organizing school promotional activities such as campus cultural festivals and welcome parties for freshmen. Led the team in designing promotional posters and writing promotional copy, effectively increasing the visibility and participation rate of school events. When organizing the campus cultural festival, faced with tight deadlines, heavy tasks, and involvement from multiple departments, actively coordinated resources and reasonably arranged tasks for team members, ensuring the smooth operation of the event and receiving widespread praise from school leaders and students alike, while also honing organizational coordination and team management skills.
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+### **2. Astronomy Club Activities**  
+**09/2022 – 01/2024**  
 
----
+I served as Deputy President of the school's astronomy club during my first year of high school, assisting the president in managing club affairs and organizing various observation activities and knowledge learning sessions for club members. Carefully planned and successfully hosted the "Exploring the Mysteries of the Stars" series of activities, including campus astronomy lectures and outdoor star-gazing practices. Invited professional astronomers to give lectures on theoretical astronomical knowledge during the campus astronomy lectures, sparking great interest in astronomy among classmates; guided club members in using telescopes for celestial observations during outdoor star-gazing practices, personally demonstrating and explaining telescope operation techniques, helping members better observe and identify constellations, planets, and other celestial bodies, significantly enhancing the practical astronomical observation abilities of club members. The club was rated as an "Outstanding Club" at the school level.
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **3. Choir Club Activities**  
+**09/2022– 12/2024**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+I joined the school choir during my first and second years of high school, actively participating in daily rehearsals and performances. Collaborating with fellow members, we performed numerous classic choral pieces. In the school's arts and culture show, we won enthusiastic applause from the audience with our beautiful harmonies and harmonious stage presence, adding a bright touch to campus cultural life. Through choir activities, not only did I enhance my musical appreciation and singing skills, but I also deeply understood the importance of teamwork and collective honor.
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+### **4. Painting Club Activities**  
+**09/2022 – 12/2024**  
+
+I participated in the school painting club during my first and second years of high school, actively engaging in club-organized painting classes and artistic creation activities. Under the guidance of club teachers, I systematically learned various painting techniques such as sketching, watercolor, and oil painting, continuously improving my painting skills. The club regularly organized visits to museums and art galleries for members to learn and draw inspiration, broadening our artistic perspectives. In the school painting competition, my work titled "Flowers" won first prize at the school level. This not only affirmed my painting talent but also strengthened my love and determination for exploring art, fostering my aesthetic literacy and artistic expression abilities.
+
+### **5. Model United Nations Activities**  
+**09/2022– 12/2024**  
+
+I participated in the school's Model United Nations club during my third year of high school and served as a member of the executive board, responsible for guiding discussions, coordinating viewpoints, and facilitating consensus among representatives from different countries. During a Model UN meeting on the topic of AI ethics and regulations, representatives from various countries had differing stances and ongoing disputes. Through rounds of intense debate and negotiation, under my guidance, representatives reached a consensus and passed a landmark resolution on AI ethical standards. This activity not only deepened my understanding of international politics, economics, and culture but also honed my critical thinking and negotiation skills, enhancing my ability to solve complex problems. It also equipped me with valuable experience in seeking balance when facing diverse viewpoints and conflicting interests, preparing me for future work involving international cooperation and policy-making in the field of artificial intelligence.
+
+### **6. Community Education Volunteer Services**  
+**09/2022– 01/2025**  
+
+- Utilized spare time during my first and second years of high school to participate in community education volunteer services, teaching English and other courses to primary school students. During the teaching process, I fully considered the age characteristics and learning needs of primary school students, carefully designing teaching content and methods. For example, in English teaching, I used gamified teaching and storytelling methods to stimulate students' interest in learning. To better understand students' learning progress and mastery, I regularly engaged in one-on-one communication and tutoring, tailoring personalized learning plans based on each student's learning style. After some time of teaching, students showed significant improvement in their English grades. Parents highly praised the teaching work, deeply experiencing the power of education and the value of volunteer work, while also cultivating patience and a sense of responsibility.  
+- Continued serving as a volunteer at Wuhan Library during high school, mainly assisting library staff in organizing books and periodicals, categorizing and shelving books, and maintaining order in the reading area. Through this job, I cultivated a strong sense of responsibility and patience, learned efficient time management and task planning skills, and could reasonably arrange volunteer service time amidst busy academic schedules, ensuring the completion of all tasks. At the same time, the rich collection of books within the library provided me with a good reading environment and learning resources, further broadening my knowledge base and horizons, allowing me to explore multiple areas such as humanities and science, enriching my knowledge reserves, and reinforcing my love and pursuit of knowledge.  
+
+### **7. Environmental Protection Public Welfare Projects**  
+**10/2022 – 01/2025**  
+
+I organized and participated in an environmental protection public welfare project during my second year of high school, aimed at raising residents' awareness of environmental protection and promoting sustainable development concepts. At the initial stage of the project, we faced numerous challenges such as financial shortages, insufficient personnel, and low resident participation. Actively and proactively communicated and collaborated with community committees, surrounding enterprises, schools, etc., securing certain financial support and manpower assistance. Delved into the community, conducting a series of colorful environmental protection publicity activities, such as waste sorting lectures, environmental protection creative workshops, and environmental knowledge competitions.In the waste sorting lecture, residents were thoroughly informed about the importance and specific methods of waste sorting through real-life cases and vivid demonstrations, making it easier for them to understand and accept. In the environmental protection creative workshop, residents were guided to make handicrafts from waste materials, which not only enhanced their environmental awareness but also enriched their leisure lives. After several months of effort, the community residents' environmental awareness has significantly improved, with an increase in the recycling rate of waste within the community and a notable improvement in environmental quality. I also deeply realized the positive impact of individual actions on society.
+

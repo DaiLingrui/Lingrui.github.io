@@ -11,4 +11,5 @@ I'm currently a High school student with focus in STEM in WuHan China.
 • GPA: 3.7/4.0  
 
 #### Research Interests  
-Mathematics, Physics, Deep Learning and Artificial intelligence.
+- Mathematics, Physics, Deep Learning and Artificial intelligence.  
+- I have done two projects to use AI to solve about Wetland Smart Brain and Mind Mirror.  
