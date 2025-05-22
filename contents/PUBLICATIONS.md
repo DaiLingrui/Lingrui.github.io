@@ -3,5 +3,3 @@
 
 ### **Project Two: Mind Mirror - An AI Framework Inspired by Neuropsychodynamics for Metacognition**  
 **09/2024– 01/2025**  
-
-
